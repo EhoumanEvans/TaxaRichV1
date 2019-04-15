@@ -44,3 +44,6 @@ The `nblfm()` function calculates the sum of all species from  a given life form
 The `nbchl()` function calculates the sum of all species from  a given chorological origin.
 
 ## References
+
+##Add your tricks
+Please contact Evans (ehoumanevans@gmail.com) if you would like to add here a code that may be useful for users (code authorship will be respected).
