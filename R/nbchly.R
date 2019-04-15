@@ -7,7 +7,7 @@
 #' @export
 #' @examples
 #' # Find the number of species in the chorology of the sample dataframe
-#' nbfam(releveforet)
+#' nbchly(releveforet)
 #' 
 
 
