@@ -1,0 +1,24 @@
+---
+title: 'Vignette TaxaRich'
+output:
+  prettydoc::html_pretty: 
+    number_sections: yes
+    toc: yes
+    highlight: vignette
+    self_contained: yes
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Vignette TaxaRich}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
+test <- TRUE
+CACHE <- TRUE
+require(knitr)
+require(dplyr)
+require(TaxaRich)
+```
+
+#Load TaxaRich and datasets
+**Install TaxaRich (to be done once)**
