@@ -31,7 +31,7 @@ The latest version from Github (in development):
 
 ``` r
 install.packages("devtools")
-devtools::install_github("EhoumanEvans/ TaxaRich")
+devtools::install_github("EhoumanEvans/TaxaRich")
 ```
 
 To use it :
