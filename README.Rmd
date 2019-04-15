@@ -10,12 +10,11 @@ output:
 knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
 ```
 
-## The package
+## The package: TaxaRich
 
 TaxonRich provides an easy way to compute taxonomic richness in a floristic data frame from a field inventory. It contains four mains functions. The data attached is related to floristic inventory carried around water body points in Côte d'Ivoire
 
 Contains functions to compute number of species by genera, family, chorlogy and by life form
-
 
 
 ## Citation
@@ -23,7 +22,7 @@ Contains functions to compute number of species by genera, family, chorlogy and 
 To cite TaxaRich, please use citation("TaxaRich").
 
 
-## Install BIOMASS
+## Install TaxaRich
 
 The latest released version from CRAN:
 ```{r}
@@ -35,6 +34,7 @@ The latest version from Github (in development):
 install.packages("devtools")
 devtools::install_github("EhoumanEvans/TaxaRich")
 ```
+Read more in [Taxonomy Richness with R]( https://github.com/EhoumanEvans/TaxaRich)
 
 To use it :
 ```{r}
