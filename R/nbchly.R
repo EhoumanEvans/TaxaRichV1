@@ -1,13 +1,12 @@
-#' This function is allows you to calculate the number of species per family in a floristic data table
+#' This function is allows you to calculate the number of species per chorology in a floristic data table
 #'
-#' This function converts input temperatures in Fahrenheit to Kelvin.
 #' @param x data matrix of floristic inventory, the name of each colum is as follow : 'genera', 'epit.spec', 'specie', 'family', 'life.form', 'chorology'.
 #' @keywords family 
 #' @author Evans Ehouman
-#' @return to a data.frame of number of species in each family.
+#' @return to a data.frame of number of species in each chorology origin
 #' @export
 #' @examples
-#' # Find the number of species in the family of the sample dataframe
+#' # Find the number of species in the chorology of the sample dataframe
 #' nbfam(releveforet)
 #' 
 
