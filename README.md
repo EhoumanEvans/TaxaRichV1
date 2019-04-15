@@ -16,7 +16,7 @@ This package contains functions to compute number of species by genera, family, 
 Citation
 --------
 
-To cite TaxaRich, please use citation("TaxaRich ").
+To cite TaxaRich, please use citation("TaxaRich").
 
 Install TaxaRich
 ---------------
@@ -24,14 +24,14 @@ Install TaxaRich
 The latest released version from CRAN:
 
 ``` r
-install.packages("TaxaRich ")
+install.packages("TaxaRich")
 ```
 
 The latest version from Github (in development):
 
 ``` r
 install.packages("devtools")
-devtools::install_github("EhoumanEvans/ TaxaRich ")
+devtools::install_github("EhoumanEvans/ TaxaRich")
 ```
 
 To use it :
