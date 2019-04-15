@@ -1,6 +1,5 @@
 #' This function is allows you to calculate the number of species per family in a floristic data table
 #'
-#' This function converts input temperatures in Fahrenheit to Kelvin.
 #' @param x data matrix of floristic inventory, the name of each colum is as follow : 'genera', 'epit.spec', 'specie', 'family', 'life.form', 'chorology'.
 #' @keywords family 
 #' @author Evans Ehouman
