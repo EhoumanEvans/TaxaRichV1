@@ -7,7 +7,7 @@
 #' @export
 #' @examples
 #' # Find the number of species in the genera of the sample dataframe
-#' nbfam(releveforet)
+#' nbgr(releveforet)
 #'
 
 nbgr= function(x) {
