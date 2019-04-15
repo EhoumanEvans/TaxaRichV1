@@ -7,7 +7,9 @@
 #' @export
 #' @examples
 #' # Find the number of species in the chorology of the sample dataframe
-#' nbchly(releveforet)
+#' releveforet is a floristic data table
+#' nbchly(releveforet) 
+#' gives the number of species per choloroligcal origins
 #' 
 
 
